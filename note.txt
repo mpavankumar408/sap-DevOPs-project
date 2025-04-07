@@ -1,0 +1,14 @@
+create a custom table with fields:
+
+selection screen : plant(werks),material type(mtart),file path(which received from jda as txt)
+
+constraint checking : order type ( ) = LA/LB/LA&&LB
+
+
+werks-> plwrk, paart = LA ,psttr = 4months,plnum
+
+
+
+file from al11 to internal table 
+
+https://blogs.sap.com/2019/11/29/dynamically-read-the-application-server-data-to-internal-table-and-download-to-presentation-server/
